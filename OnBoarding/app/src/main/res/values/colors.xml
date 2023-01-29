@@ -10,4 +10,8 @@
     <color name="textOnBoarding1">#131A38</color>
     <color name="textOnBoarding1_2">#616772</color>
     <color name="primary_color">#FE724C</color>
+    <color name="circle_signup">#FFECE7</color>
+    <color name="grey">#9796A1</color>
+    <color name="blur_grey">#FF9796A1</color>
+    <color name="blur_black">#00000000</color>
 </resources>

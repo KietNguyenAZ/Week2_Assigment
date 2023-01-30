@@ -37,6 +37,7 @@
         <activity android:name=".Welcome"></activity>
         <activity android:name=".SignUp"></activity>
         <activity android:name=".SignIn"></activity>
+        <activity android:name=".Profile"></activity>
 
     </application>
 

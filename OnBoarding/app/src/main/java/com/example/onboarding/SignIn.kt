@@ -20,7 +20,23 @@ class SignIn:AppCompatActivity(){
             startActivity(actionClickForSignUp)
         }
 
+        val toProfile = findViewById<Button>(R.id.LoginToFrofile)
+        toProfile.setOnClickListener(){
+            clickLogIn()
+        }
+
 
     }
+    private fun clickLogIn(){
+        val editEmail = findViewById<EditText>(R.id.editTextTextEmailAddressForLogIn)
+        val editPassword = findViewById<EditText>(R.id.editTextTextPasswordLogIn)
+        if( editEmail.text.toString() == "username@gmail.com" &&  editPassword.text.toString() == "123456"){
+            startActivity(Intent(this, Profile::class.java))
+        }
+        else{
+            Toast.makeText(this, "Login Failed!!!", Toast.LENGTH_SHORT).show()
+        }
+
+}
 }
 

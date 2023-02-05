@@ -7,5 +7,8 @@ Hồ Minh Đạt - 19207057
 Võ Nguyễn Long An - 19207047
 
 
-https://user-images.githubusercontent.com/100434220/215397639-13ef23ac-1685-4bcc-aa2e-a37aa1809d3d.mp4
+
+
+
+https://user-images.githubusercontent.com/100434220/216831572-979a510d-8d76-4f87-9da6-71d0779d0595.mp4
 
